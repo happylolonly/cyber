@@ -1,0 +1,13 @@
+html body {
+  /* --lx-accent-11: #36d6ae; */
+  background-color: black;
+}
+
+/* .dark-theme,
+html[data-theme="dark"] {
+  --left-sidebar-bg-color: red;
+} */
+
+.dark .left-sidebar-inner {
+  --left-sidebar-bg-color: black;
+}
